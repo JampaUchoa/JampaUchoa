@@ -1,6 +1,6 @@
 ## Hi there👋
 
-- 📚 Currently writing: [The art of Engineering Management](https://github.com/JampaUchoa/the-art-of-engineering-management)
+- 📚 Currently writing: [The art of Engineering Management](https://taoem.com)
 - ✍️ Some blog articles about AI / Software Engineering: [Blog](https://jampauchoa.substack.com/)
 - 💬 Ask me anything about engineering management / Startups / AI: 📫 hello[ at ]jampa[ dot ]dev
 
